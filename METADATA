@@ -1,0 +1,8 @@
+Country: UK
+Locality: Greater London
+SourceURL: http://data.london.gov.uk/datastore/package/statistical-gis-boundary-files-london
+License: UK Open Government License
+LicenseType: Attribution
+LicenseURL: https://s3-eu-west-1.amazonaws.com/londondatastore-upload/Geography-licensing.pdf
+Projection: WGS84
+OriginalProjection: UTM
